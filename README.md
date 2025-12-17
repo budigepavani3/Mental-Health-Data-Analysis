@@ -28,9 +28,6 @@ The project is designed and documented to meet **Data Analyst portfolio standard
   * Sentiment indicators
   * User engagement metrics
   * Time-based features
-
-> *The dataset is used strictly for educational and portfolio demonstration purposes.*
-
 ---
 
 ## 🛠️ Tools & Technologies
