@@ -107,7 +107,7 @@ Mental-Health-Social-Media-Analysis/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/mental-health-social-media-analysis.git
+git clone https://github.com/budigepavani3/Mental-Health-Data-Analysis/
 ```
 
 2. Open the Jupyter Notebook (`.ipynb`) and run all cells
