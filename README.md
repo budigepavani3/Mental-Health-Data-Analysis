@@ -130,7 +130,7 @@ git clone https://github.com/your-username/mental-health-social-media-analysis.g
 **Budiga Pavani**
 Data Analyst | Python & Power BI Enthusiast
 
-🔗 GitHub: https://github.com/your-budigepavani3
+🔗 GitHub: [https://github.com/your-budigepavani3](https://github.com/budigepavani3/)
 🔗 LinkedIn: https://www.linkedin.com/in/ pavani-budiga
 
 ---
